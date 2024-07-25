@@ -31,7 +31,6 @@
         border-radius: 10px;
         padding: 20px;    
         margin: 100px auto 0;
-        
     }
 
     .input-task{
@@ -39,8 +38,7 @@
         border-radius: 5px;
         width: 220px;
         height: 40px;
-        padding-left: 10px;
-        
+        padding-left: 10px; 
     }
 
     img{
